@@ -1,0 +1,16 @@
+{
+  "name": "navetta-tome-bot",
+  "version": "0.0.0",
+  "description": "NavettaTomeBot",
+  "main": "app.js",
+  "author": {
+    "name": "Utente"
+  },
+  "devDependencies": {
+    "@types/node": "^6.0.87",
+    "@types/node-telegram-bot-api": "^0.28.2"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.29.0"
+  }
+}
